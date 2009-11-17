@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1620"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre2 r22153"
+   sodipodi:docname="rack_gaurd_fused_1A.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3627"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3656"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3805"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="342.35953"
+     inkscape:cy="518.8274"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="783"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     units="in"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2845" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.640998)">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 45 45 L 45 360 L 135 360 L 135 45 L 45 45 z M 78.75 56.25 C 84.963203 56.25 90 61.286797 90 67.5 C 90 73.713203 84.963203 78.75 78.75 78.75 C 72.536797 78.75 67.5 73.713203 67.5 67.5 C 67.5 61.286797 72.536797 56.25 78.75 56.25 z M 112.5 90 L 123.75 90 L 123.75 157.5 L 112.5 157.5 L 112.5 90 z M 112.5 247.5 L 123.75 247.5 L 123.75 315 L 112.5 315 L 112.5 247.5 z M 78.75 326.25 C 84.963203 326.25 90 331.2868 90 337.5 C 90 343.7132 84.963203 348.75 78.75 348.75 C 72.536797 348.75 67.5 343.7132 67.5 337.5 C 67.5 331.2868 72.536797 326.25 78.75 326.25 z "
+       transform="translate(0,-27.640998)"
+       id="rect3743" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 159.75 45 L 159.75 90 L 148.5 90 L 148.5 157.5 L 159.75 157.5 L 159.75 247.5 L 148.5 247.5 L 148.5 315 L 159.75 315 L 159.75 360 L 452.25 360 L 452.25 45 L 159.75 45 z M 182.25 56.25 L 249.75 56.25 L 249.75 67.5 L 182.25 67.5 L 182.25 56.25 z M 339.75 56.25 L 407.25 56.25 L 407.25 67.5 L 339.75 67.5 L 339.75 56.25 z M 429.75 90 L 441 90 L 441 157.5 L 429.75 157.5 L 429.75 90 z M 306 157.5 C 330.85282 157.5 351 177.64718 351 202.5 C 351 227.35282 330.85282 247.5 306 247.5 C 281.14718 247.5 261 227.35282 261 202.5 C 261 177.64718 281.14718 157.5 306 157.5 z M 429.75 247.5 L 441 247.5 L 441 315 L 429.75 315 L 429.75 247.5 z M 182.25 337.5 L 249.75 337.5 L 249.75 348.75 L 182.25 348.75 L 182.25 337.5 z M 339.75 337.5 L 407.25 337.5 L 407.25 348.75 L 339.75 348.75 L 339.75 337.5 z "
+       transform="translate(0,-27.640998)"
+       id="path2861" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 47.5,655.359 0,45 -11.25,0 0,67.5 11.25,0 0,90 -11.25,0 0,67.5 11.25,0 0,45 1541.25,0 0,-45 11.25,0 0,-67.5 -11.25,0 0,-90 11.25,0 0,-67.5 -11.25,0 0,-45 -1541.25,0 z m 191.25,180 c 24.8528,0 45,20.14718 45,45 0,24.85282 -20.1472,45 -45,45 -24.8528,0 -45,-20.14718 -45,-45 0,-24.85282 20.1472,-45 45,-45 z m 641.25,0 c 24.8528,0 45,20.14718 45,45 0,24.85282 -20.1472,45 -45,45 -24.8528,0 -45,-20.14718 -45,-45 0,-24.85282 20.1472,-45 45,-45 z"
+       id="path2873" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1"
+       d="m -1616.5,467.859 11.25,0 0,22.5 1541.25,0 0,-22.5 11.25,0 0,-67.5 -11.25,0 0,-90 11.25,0 0,-67.5 -11.25,0 0,-22.5 -1541.25,0 0,22.5 -11.25,0 0,67.5 11.25,0 0,90 -11.25,0 0,67.5 z"
+       id="rect2883" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 36.25,605.359 11.25,0 0,22.5 1541.25,0 0,-22.5 11.25,0 0,-67.5 -11.25,0 0,-90 11.25,0 0,-67.5 -11.25,0 0,-22.5 -1541.25,0 0,22.5 -11.25,0 0,67.5 11.25,0 0,90 -11.25,0 0,67.5 z"
+       id="rect2909" />
+    <path
+       id="path3979"
+       d="m 486.75,17.859002 0,45 -11.25,0 0,67.499998 11.25,0 0,90 -11.25,0 0,67.5 11.25,0 0,45 292.5,0 0,-314.999998 -292.5,0 z m 22.5,11.25 67.5,0 0,11.25 -67.5,0 0,-11.25 z m 157.5,0 67.5,0 0,11.25 -67.5,0 0,-11.25 z m 90,33.75 11.25,0 0,67.499998 -11.25,0 0,-67.499998 z M 633,130.359 c 24.85282,0 45,20.14718 45,45 0,24.85282 -20.14718,45 -45,45 -24.85282,0 -45,-20.14718 -45,-45 0,-24.85282 20.14718,-45 45,-45 z m 123.75,90 11.25,0 0,67.5 -11.25,0 0,-67.5 z m -247.5,90 67.5,0 0,11.25 -67.5,0 0,-11.25 z m 157.5,0 67.5,0 0,11.25 -67.5,0 0,-11.25 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
